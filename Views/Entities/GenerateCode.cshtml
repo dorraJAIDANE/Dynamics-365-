@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Code généré";
+    var generatedCode = ViewBag.GeneratedCode as string;
+}
+
+<h2>Code généré pour l'entité</h2>
+
+@if (generatedCode != null)
+{
+    <pre>@generatedCode</pre>
+}
+else
+{
+    <div class="alert alert-warning">
+        Aucun code généré. Vérifiez que des champs ont été sélectionnés.
+    </div>
+}

@@ -1,0 +1,35 @@
+﻿@foreach (var attr in Model)
+{
+    <tr>
+        <td>@attr["LogicalName"]</td>
+        <td>@attr["DisplayName"]</td>
+        <td>@attr["AttributeType"]</td>
+        <td>
+            @if (attr["Options"] != null)
+            {
+                if (attr["Options"] is Dictionary<int, string> options) // Si c'est un Picklist
+                {
+                    <select>
+                        @foreach (var option in options)
+                        {
+                            <option value="@option.Key">@option.Value</option>
+                        }
+                    </select>
+                }
+                else if (attr["Options"] is List<Dictionary<string, object>> relatedEntities) // Si c'est un Lookup
+                {
+                    <select>
+                        @foreach (var entity in relatedEntities)
+                        {
+                            <option value="@entity["Id"]">@entity["Name"]</option>
+                        }
+                    </select>
+                }
+            }
+            else
+            {
+                <span>Aucune option</span>
+            }
+        </td>
+    </tr>
+}

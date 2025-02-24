@@ -1,0 +1,30 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Solutions";
+}
+
+<h2>Solutions</h2>
+
+@if (Model != null && Model.Any())
+{
+    <div class="row">
+        @foreach (var solution in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">@solution</h5>
+                        <a href="@Url.Action("Index", "Entities", new { solname = solution })" class="btn btn-primary">View Entities</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        No active solutions found.
+    </div>
+}

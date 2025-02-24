@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Busineso
+build_property.RootNamespace = Busineso
+build_property.ProjectDir = C:\Users\Dorra\Desktop\copie 2\Busineso (1)\Busineso\Busineso\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Dorra\Desktop\copie 2\Busineso (1)\Busineso\Busineso
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Entities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50aXRpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Entities/GenerateCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50aXRpZXNcR2VuZXJhdGVDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Entities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50aXRpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Entities/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50aXRpZXNcU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Solutions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sdXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorra/Desktop/copie 2/Busineso (1)/Busineso/Busineso/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nkul8dqktr

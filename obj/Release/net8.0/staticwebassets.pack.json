@@ -1,0 +1,2001 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Busineso.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Busineso.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\app.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\app.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\colors.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\colors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\component-types.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\component-types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-block.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-block.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.form-associated.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.form-associated.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\color-picker\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\control-pane\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\gradient\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\layer-background\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\layer-background\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\swatch.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\components\\swatch.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\custom-elements.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\custom-elements.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\_docs\\design-system\\color-explorer\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\accordion\\accordion-item\\accordion-item.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\accordion\\accordion-item\\accordion-item.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\accordion\\accordion-item\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\accordion\\accordion-item\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\accordion\\accordion.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\accordion\\accordion.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\accordion\\accordion.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\accordion\\accordion.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\accordion\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\accordion\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchor\\anchor.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchor\\anchor.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchor\\anchor.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchor\\anchor.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchor\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchor\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchored-region\\anchored-region.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchored-region\\anchored-region.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchored-region\\anchored-region.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchored-region\\anchored-region.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\anchored-region\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\anchored-region\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\badge\\badge.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\badge\\badge.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\badge\\badge.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\badge\\badge.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\badge\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\badge\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb-item\\breadcrumb-item.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb-item\\breadcrumb-item.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb-item\\breadcrumb-item.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb-item\\breadcrumb-item.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb-item\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb-item\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb\\breadcrumb.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb\\breadcrumb.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb\\breadcrumb.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb\\breadcrumb.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\breadcrumb\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\breadcrumb\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\button\\button.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\button\\button.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\button\\button.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\button\\button.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\button\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\button\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\calendar\\calendar.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\calendar\\calendar.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\calendar\\calendar.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\calendar\\calendar.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\calendar\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\calendar\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\card\\card.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\card\\card.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\card\\card.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\card\\card.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\card\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\card\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\checkbox\\checkbox.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\checkbox\\checkbox.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\checkbox\\checkbox.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\checkbox\\checkbox.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\checkbox\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\checkbox\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\palette.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\palette.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipe.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipe.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\contrast-and-delta-swatch-set.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\contrast-and-delta-swatch-set.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\contrast-swatch.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\contrast-swatch.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\delta-swatch-set.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\delta-swatch-set.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\delta-swatch.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\delta-swatch.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\focus-stroke.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\focus-stroke.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\foreground-on-accent.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\foreground-on-accent.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\gradient-shadow-stroke.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\gradient-shadow-stroke.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\gradient-swatch.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\gradient-swatch.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\neutral-layer-1.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\neutral-layer-1.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\neutral-layer-2.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\neutral-layer-2.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\neutral-layer-3.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\neutral-layer-3.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\neutral-layer-4.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\neutral-layer-4.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\neutral-layer-floating.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\neutral-layer-floating.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\recipes\\underline-stroke.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\recipes\\underline-stroke.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\swatch.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\swatch.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\base-layer-luminance.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\base-layer-luminance.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\binary-search.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\binary-search.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\color-constants.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\color-constants.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\direction-by-is-dark.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\direction-by-is-dark.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\is-dark.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\is-dark.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\color\\utilities\\relative-luminance.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\color\\utilities\\relative-luminance.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\combobox\\combobox.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\combobox\\combobox.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\combobox\\combobox.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\combobox\\combobox.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\combobox\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\combobox\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\component-definitions.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\component-definitions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\custom-elements.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\custom-elements.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\data-grid\\data-grid-cell.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\data-grid\\data-grid-cell.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\data-grid\\data-grid-row.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\data-grid\\data-grid-row.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\data-grid\\data-grid.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\data-grid\\data-grid.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\data-grid\\data-grid.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\data-grid\\data-grid.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\data-grid\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\data-grid\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\design-system-provider\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\design-system-provider\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\design-tokens.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\design-tokens.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\dialog\\dialog.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\dialog\\dialog.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\dialog\\dialog.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\dialog\\dialog.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\dialog\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\dialog\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\divider\\divider.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\divider\\divider.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\divider\\divider.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\divider\\divider.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\divider\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\divider\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\flipper\\flipper.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\flipper\\flipper.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\flipper\\flipper.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\flipper\\flipper.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\flipper\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\flipper\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\fluent-design-system.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\fluent-design-system.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\horizontal-scroll\\horizontal-scroll.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\horizontal-scroll\\horizontal-scroll.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\horizontal-scroll\\horizontal-scroll.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\horizontal-scroll\\horizontal-scroll.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\horizontal-scroll\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\horizontal-scroll\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\index-rollup.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\index-rollup.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox-option\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox-option\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox-option\\listbox-option.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox-option\\listbox-option.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox-option\\listbox-option.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox-option\\listbox-option.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox\\listbox.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox\\listbox.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\listbox\\listbox.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\listbox\\listbox.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu-item\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu-item\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu-item\\menu-item.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu-item\\menu-item.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu-item\\menu-item.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu-item\\menu-item.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu\\menu.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu\\menu.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\menu\\menu.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\menu\\menu.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\number-field\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\number-field\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\number-field\\number-field.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\number-field\\number-field.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\number-field\\number-field.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\number-field\\number-field.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress-ring\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress-ring\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress-ring\\progress-ring.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress-ring\\progress-ring.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress-ring\\progress-ring.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress-ring\\progress-ring.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress\\progress.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress\\progress.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\progress\\progress\\progress.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\progress\\progress\\progress.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio-group\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio-group\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio-group\\radio-group.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio-group\\radio-group.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio-group\\radio-group.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio-group\\radio-group.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio\\radio.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio\\radio.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\radio\\radio.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\radio\\radio.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\search\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\search\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\search\\search.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\search\\search.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\search\\search.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\search\\search.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\search\\search.template.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\search\\search.template.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\select\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\select\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\select\\select.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\select\\select.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\select\\select.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\select\\select.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\skeleton\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\skeleton\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\skeleton\\skeleton.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\skeleton\\skeleton.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\skeleton\\skeleton.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\skeleton\\skeleton.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider-label\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider-label\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider-label\\slider-label.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider-label\\slider-label.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider-label\\slider-label.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider-label\\slider-label.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider\\slider.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider\\slider.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\slider\\slider.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\slider\\slider.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\direction.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\direction.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\elevation.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\elevation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\focus.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\focus.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\patterns\\button.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\patterns\\button.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\patterns\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\patterns\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\patterns\\input.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\patterns\\input.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\patterns\\type-ramp.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\patterns\\type-ramp.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\styles\\size.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\styles\\size.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\switch\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\switch\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\switch\\switch.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\switch\\switch.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\switch\\switch.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\switch\\switch.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tab-panel\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tab-panel\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tab-panel\\tab-panel.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tab-panel\\tab-panel.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tab\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tab\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tab\\tab.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tab\\tab.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tabs.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tabs.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tabs\\tabs.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tabs\\tabs.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-area\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-area\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-area\\text-area.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-area\\text-area.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-area\\text-area.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-area\\text-area.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-field\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-field\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-field\\text-field.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-field\\text-field.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\text-field\\text-field.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\text-field\\text-field.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\toolbar\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\toolbar\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\toolbar\\toolbar.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\toolbar\\toolbar.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\toolbar\\toolbar.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\toolbar\\toolbar.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tooltip\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tooltip\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tooltip\\tooltip.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tooltip\\tooltip.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tooltip\\tooltip.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tooltip\\tooltip.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-item\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-item\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-item\\tree-item.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-item\\tree-item.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-item\\tree-item.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-item\\tree-item.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-view\\index.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-view\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-view\\tree-view.stories.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-view\\tree-view.stories.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\tree-view\\tree-view.styles.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\tree-view\\tree-view.styles.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\utilities\\behaviors.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\utilities\\behaviors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\dts\\utilities\\type-ramp.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\dts\\utilities\\type-ramp.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\app.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\colors.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\colors.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\component-types.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\component-types.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-block.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-block.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.form-associated.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.form-associated.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\color-picker.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\color-picker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\control-pane.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\control-pane\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\gradient.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\gradient\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\layer-background\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\layer-background\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-app\\sample-app.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\sample-page\\sample-page.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\swatch.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\components\\swatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\custom-elements.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\custom-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\_docs\\design-system\\color-explorer\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion-item\\accordion-item.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion-item\\accordion-item.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion-item\\accordion-item.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion-item\\accordion-item.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion-item\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion-item\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\accordion.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\accordion.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\accordion\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchor\\anchor.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchor\\anchor.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchor\\anchor.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchor\\anchor.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchor\\anchor.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchor\\anchor.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchored-region\\anchored-region.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchored-region\\anchored-region.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchored-region\\anchored-region.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchored-region\\anchored-region.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchored-region\\anchored-region.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchored-region\\anchored-region.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\anchored-region\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\anchored-region\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\badge\\badge.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\badge\\badge.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\badge\\badge.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\badge\\badge.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\badge\\badge.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\badge\\badge.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\badge\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\badge\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb-item\\breadcrumb-item.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb-item\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb-item\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb\\breadcrumb.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb\\breadcrumb.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb\\breadcrumb.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb\\breadcrumb.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb\\breadcrumb.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb\\breadcrumb.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\breadcrumb\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\breadcrumb\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\button\\button.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\button\\button.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\button\\button.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\button\\button.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\button\\button.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\button\\button.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\button\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\button\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\calendar\\calendar.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\calendar\\calendar.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\calendar\\calendar.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\calendar\\calendar.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\calendar\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\calendar\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\card\\card.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\card\\card.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\card\\card.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\card\\card.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\card\\card.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\card\\card.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\card\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\card\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\checkbox\\checkbox.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\checkbox\\checkbox.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\checkbox\\checkbox.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\checkbox\\checkbox.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\checkbox\\checkbox.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\checkbox\\checkbox.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\checkbox\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\checkbox\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\palette.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\palette.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipe.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\contrast-and-delta-swatch-set.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\contrast-and-delta-swatch-set.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\contrast-swatch.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\contrast-swatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\delta-swatch-set.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\delta-swatch-set.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\delta-swatch.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\delta-swatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\focus-stroke.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\focus-stroke.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\foreground-on-accent.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\foreground-on-accent.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\gradient-shadow-stroke.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\gradient-shadow-stroke.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\gradient-swatch.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\gradient-swatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\neutral-layer-1.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\neutral-layer-1.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\neutral-layer-2.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\neutral-layer-2.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\neutral-layer-3.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\neutral-layer-3.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\neutral-layer-4.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\neutral-layer-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\neutral-layer-floating.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\neutral-layer-floating.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\recipes\\underline-stroke.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\recipes\\underline-stroke.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\swatch.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\swatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\base-layer-luminance.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\base-layer-luminance.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\binary-search.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\binary-search.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\color-constants.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\color-constants.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\direction-by-is-dark.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\direction-by-is-dark.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\is-dark.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\is-dark.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\color\\utilities\\relative-luminance.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\color\\utilities\\relative-luminance.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\combobox\\combobox.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\combobox\\combobox.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\combobox\\combobox.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\combobox\\combobox.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\combobox\\combobox.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\combobox\\combobox.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\combobox\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\combobox\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\component-definitions.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\component-definitions.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\custom-elements.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\custom-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid-cell.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid-cell.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid-cell.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid-cell.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid-row.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid-row.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid-row.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid-row.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\data-grid.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\data-grid.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\data-grid\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\data-grid\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\design-system-provider\\design-system-provider.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\design-system-provider\\design-system-provider.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\design-system-provider\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\design-system-provider\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\design-tokens.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\design-tokens.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\dialog\\dialog.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\dialog\\dialog.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\dialog\\dialog.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\dialog\\dialog.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\dialog\\dialog.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\dialog\\dialog.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\dialog\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\dialog\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\divider\\divider.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\divider\\divider.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\divider\\divider.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\divider\\divider.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\divider\\divider.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\divider\\divider.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\divider\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\divider\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\flipper\\flipper.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\flipper\\flipper.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\flipper\\flipper.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\flipper\\flipper.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\flipper\\flipper.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\flipper\\flipper.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\flipper\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\flipper\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\fluent-design-system.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\fluent-design-system.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\horizontal-scroll\\horizontal-scroll.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\horizontal-scroll\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\horizontal-scroll\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\index-rollup.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\index-rollup.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox-option\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox-option\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox-option\\listbox-option.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox-option\\listbox-option.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox-option\\listbox-option.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox-option\\listbox-option.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox-option\\listbox-option.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox-option\\listbox-option.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox\\listbox.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox\\listbox.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox\\listbox.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox\\listbox.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\listbox\\listbox.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\listbox\\listbox.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu-item\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu-item\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu-item\\menu-item.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu-item\\menu-item.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu-item\\menu-item.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu-item\\menu-item.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu-item\\menu-item.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu-item\\menu-item.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu\\menu.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu\\menu.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu\\menu.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu\\menu.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\menu\\menu.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\menu\\menu.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\number-field\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\number-field\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\number-field\\number-field.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\number-field\\number-field.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\number-field\\number-field.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\number-field\\number-field.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\number-field\\number-field.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\number-field\\number-field.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress-ring\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress-ring\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress-ring\\progress-ring.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress\\progress.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress\\progress.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress\\progress.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress\\progress.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\progress\\progress\\progress.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\progress\\progress\\progress.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio-group\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio-group\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio-group\\radio-group.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio-group\\radio-group.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio-group\\radio-group.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio-group\\radio-group.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio-group\\radio-group.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio-group\\radio-group.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio\\radio.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio\\radio.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio\\radio.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio\\radio.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\radio\\radio.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\radio\\radio.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\search\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\search\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\search\\search.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\search\\search.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\search\\search.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\search\\search.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\search\\search.template.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\search\\search.template.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\search\\search.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\search\\search.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\select\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\select\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\select\\select.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\select\\select.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\select\\select.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\select\\select.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\select\\select.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\select\\select.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\skeleton\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\skeleton\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\skeleton\\skeleton.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\skeleton\\skeleton.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\skeleton\\skeleton.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\skeleton\\skeleton.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\skeleton\\skeleton.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\skeleton\\skeleton.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider-label\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider-label\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider-label\\slider-label.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider-label\\slider-label.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider-label\\slider-label.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider-label\\slider-label.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider-label\\slider-label.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider-label\\slider-label.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider\\slider.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider\\slider.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider\\slider.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider\\slider.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\slider\\slider.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\slider\\slider.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\direction.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\direction.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\elevation.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\elevation.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\focus.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\focus.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\patterns\\button.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\patterns\\button.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\patterns\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\patterns\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\patterns\\input.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\patterns\\input.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\patterns\\type-ramp.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\patterns\\type-ramp.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\styles\\size.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\styles\\size.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\switch\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\switch\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\switch\\switch.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\switch\\switch.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\switch\\switch.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\switch\\switch.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\switch\\switch.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\switch\\switch.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab-panel\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab-panel\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab-panel\\tab-panel.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab-panel\\tab-panel.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab-panel\\tab-panel.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab-panel\\tab-panel.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab\\tab.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab\\tab.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tab\\tab.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tab\\tab.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tabs.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tabs.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tabs.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tabs.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tabs\\tabs.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tabs\\tabs.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-area\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-area\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-area\\text-area.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-area\\text-area.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-area\\text-area.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-area\\text-area.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-area\\text-area.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-area\\text-area.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-field\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-field\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-field\\text-field.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-field\\text-field.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-field\\text-field.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-field\\text-field.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\text-field\\text-field.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\text-field\\text-field.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\toolbar\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\toolbar\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\toolbar\\toolbar.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\toolbar\\toolbar.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\toolbar\\toolbar.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\toolbar\\toolbar.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tooltip\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tooltip\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tooltip\\tooltip.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tooltip\\tooltip.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tooltip\\tooltip.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tooltip\\tooltip.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tooltip\\tooltip.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tooltip\\tooltip.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-item\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-item\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-item\\tree-item.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-item\\tree-item.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-item\\tree-item.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-item\\tree-item.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-item\\tree-item.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-item\\tree-item.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-view\\index.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-view\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-view\\tree-view.stories.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-view\\tree-view.stories.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-view\\tree-view.styles.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-view\\tree-view.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\tree-view\\tree-view.vscode.definition.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\tree-view\\tree-view.vscode.definition.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\utilities\\behaviors.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\utilities\\behaviors.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\esm\\utilities\\type-ramp.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\esm\\utilities\\type-ramp.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\fluent-web-components.api.json",
+      "PackagePath": "staticwebassets\\fluent-ui\\fluent-web-components.api.json"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\web-components.d.ts",
+      "PackagePath": "staticwebassets\\fluent-ui\\web-components.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\web-components.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\web-components.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\fluent-ui\\web-components.min.js",
+      "PackagePath": "staticwebassets\\fluent-ui\\web-components.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dorra\\Downloads\\Busineso (1)\\Busineso\\Busineso\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Busineso.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Busineso.props",
+      "PackagePath": "build\\Busineso.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Busineso.props",
+      "PackagePath": "buildMultiTargeting\\Busineso.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Busineso.props",
+      "PackagePath": "buildTransitive\\Busineso.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
